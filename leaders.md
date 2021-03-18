@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jothish Kumar Mohanavel](mailto:jothish.kumar@owasp.org)
+* [Noorul Hassan](mailto:noorul.hassan@owasp.org)
