@@ -16,7 +16,7 @@ Welcome to Owasp [Tiruvannamalai](https://en.wikipedia.org/wiki/Tiruvannamalai) 
 ## Training Event
  New training event " PENTESTING PLAYGROUND " in TAMIL which helps you to kick start your career in cybersecurity. 
  This is a 5 days session from 14 th April to 18th April ( 6:00pm - 8:00 pm). Those who are interested, join us by registering for the event using the following link. 
- https://bit.ly/3g2OH8R
+ https://bit.ly/3g2OH8R <br>
  https://twitter.com/owasptvmalai/status/1381598489663004672?s=20
 
 ## Contact Us
