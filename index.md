@@ -10,7 +10,7 @@ postal-code:
 
 ---
 
-
+<img src="assets/images/owasp.png"/>
 ## Welcome
 Welcome to Owasp [Tiruvannamalai](https://en.wikipedia.org/wiki/Tiruvannamalai) chapter Homepage. We are located in a beautiful state of India called [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). The main motive of this chapter is to enrich infosec community in our place.
 ## Training Event
