@@ -16,14 +16,9 @@ postal-code:
 
 Welcome to Owasp Tiruvannamalai chapter Homepage. We are located in a beautiful state of India called [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu). The main motive of this chapter is to enrich infosec community in our place. 
 
-## Training Event  
+#### Call For Speakers
 
-New training event " PENTESTING PLAYGROUND " in TAMIL which helps you to kick start your career in cybersecurity
-
-This is a 5 days session from 14 th April to 18th April ( 6:00pm - 8:00 pm) Those who are interested, join us by registering for the event using the following link. 
-
-* https://bit.ly/3g2OH8R 
-* https://twitter.com/owasptvmalai/status/1381598489663004672?s=20
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Tiruvannamalai Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail 
 
 ### Upcoming Meeting information: 
 
@@ -35,4 +30,4 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ## Contact Us
 
-[![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](mailto:jothish.kumar@owasp.org)
+[![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](mailto:joshua.jebaraj@owasp.org)
